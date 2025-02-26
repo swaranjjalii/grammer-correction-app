@@ -1,0 +1,11 @@
+streamlit
+PyPDF2
+textblob
+torch==1.13.1
+transformers
+git+https://github.com/PrithivirajDamodaran/Gramformer.git
+numpy==1.23.5
+pandas
+spacy==3.5.0
+thinc==8.1.10
+pydantic==1.10.12
